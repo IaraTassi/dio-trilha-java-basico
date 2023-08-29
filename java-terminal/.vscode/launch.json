@@ -4,7 +4,27 @@
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
-    
+    {
+      "type": "java",
+      "name": "FormatadorCepExemplo",
+      "request": "launch",
+      "mainClass": "FormatadorCepExemplo",
+      "projectName": "java-terminal_5cd0484b"
+    },
+    {
+      "type": "java",
+      "name": "ExemploExcecao",
+      "request": "launch",
+      "mainClass": "ExemploExcecao",
+      "projectName": "java-terminal_5cd0484b"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe2",
+      "request": "launch",
+      "mainClass": "AboutMe2",
+      "projectName": "java-terminal_5cd0484b"
+    },
     {
       "type": "java",
       "name": "Current File",
@@ -16,13 +36,7 @@
       "name": "AboutMe",
       "request": "launch",
       "mainClass": "AboutMe",
-      "projectName": "java-terminal_5cd0484b",
-      "args": [
-        "Iara",
-        "Tassi",
-        "50",
-        "1.67"
-      ]
+      "projectName": "java-terminal_5cd0484b"
     },
     {
       "type": "java",
